@@ -1,2 +1,2 @@
 # hello-world
-defamiliarizing myself with git
+refamiliarizing myself with git
